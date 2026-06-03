@@ -17,3 +17,6 @@ cl 2048.c /Fe:2048.exe && 2048.exe
 
 ## 游戏截图
 <img width="668" height="432" alt="image" src="https://github.com/user-attachments/assets/4483096e-4c7f-4a7b-bfcd-cc4bbd799ab7" />
+
+## 贡献者
+Deepseek v4 pro
